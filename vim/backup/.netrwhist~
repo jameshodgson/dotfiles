@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/brian.griffin/.rbenv'
+let g:netrw_dirhist_2='/Users/brian.griffin/.rbenv/versions/1.9.3-p0/lib/ruby/gems/1.9.1/gems/sop-1.0.8.15'
+let g:netrw_dirhist_3='/Users/brian.griffin/.vim'

@@ -1,0 +1,19 @@
+[user]
+  name = James Hodgson
+  email = james.hodgson@sage.com
+[alias]
+  st = status
+  hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+[pull]
+	default = current
+[push]
+  default = current
+[difftool]
+	prompt = false
+[mergetool]
+	prompt = false
+[core]
+  excludesfile = /Users/james.hodgson/.gitignore
+  editor = vim
+[grep]
+  lineNumber = true

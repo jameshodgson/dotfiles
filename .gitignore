@@ -1,0 +1,4 @@
+.sage_aliases
+bundle/
+vim/autoload
+vim/plugin
